@@ -1,0 +1,12 @@
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\bin\Debug\WallAvoid_NEAT.exe.config
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\bin\Debug\WallAvoid_NEAT.exe
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\bin\Debug\WallAvoid_NEAT.pdb
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\bin\Debug\WallAvoid_NEAT.xml
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.vbprojResolveAssemblyReference.cache
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.WallAvoid_Form.resources
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.Resources.resources
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.vbproj.GenerateResource.cache
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.vbproj.CoreCompileInputs.cache
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.exe
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.xml
+F:\Visual Basic\WallAvoid_NEAT\WallAvoid_NEAT\obj\Debug\WallAvoid_NEAT.pdb
